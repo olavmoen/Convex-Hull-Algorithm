@@ -35,3 +35,4 @@ This project implements the QuickHull algorithm (both sequential and parallel ve
 
 ## About
 This project was created for an assignment at the University of Oslo.
+Created spring 2021
